@@ -1,0 +1,4 @@
+Creating collection:Collection-faces
+Collection ARN: aws:rekognition:us-east-1:830860165481:collection/Collection-faces
+Status code: 200
+Done...
